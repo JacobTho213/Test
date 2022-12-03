@@ -1,1 +1,1 @@
-This is a small add-on pack for Spirits Part 1. For this to work correctly, put it above the main pack in the loading order. Happy hunting! /rikitikitivi
+This is the best sound texture pack in the world /jacobtho
